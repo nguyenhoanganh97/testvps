@@ -3,6 +3,12 @@
     padding: 0;
 }
 
-h1.title {
-    color: red;
+.container {
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
